@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ReflexChecker</string>
+    <string name="instructions">instructions</string>
+    <string name="task_1">task_1</string>
+    <string name="task_2">Task_2</string>
+    <string name="image_spacer">image_spacer</string>
+    <string name="task_label_1">task_label_1</string>
+    <string name="task_label_2">task_label_2</string>
+    <string name="done_button">done_button</string>
+    <string name="start_button">start_button</string>
+
+
+    <string-array name="task1_descriptions">
+        <item>Select all drinks</item>
+        <item>Deselect all drinks</item>
+        <item>Select one drink</item>
+    </string-array>
+
+    <string-array name="task2_descriptions">
+        <item>Select all fruits</item>
+        <item>Deselect all fruits</item>
+        <item>Select one fruit</item>
+    </string-array>
+
+    <string-array name="drinks">
+        <item>coke</item>
+        <item>7up</item>
+        <item>beer</item>
+        <item>wine</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>orange</item>
+        <item>apple</item>
+        <item>banana</item>
+        <item>strawberry</item>
+    </string-array>
+
+</resources>
